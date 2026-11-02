@@ -109,3 +109,36 @@ licensing details, add the chosen license file and update this section.
 Project: Project Unchained
 Focus: Digital freedom, anti-censorship research, network security,
 and circumvention detection
+# We Are Recruiting: Founding Contributors
+
+Project Unchained is seeking five founding contributors to help establish an international open-source initiative.
+
+## Open Positions
+
+- Software Engineer
+- Cybersecurity Specialist
+- Digital Rights Researcher
+- Journalist / Independent Researcher
+- Community & Communications Manager
+
+## Our Mission
+
+To advance digital freedom through open-source technology, independent research, privacy, transparency, and international cooperation.
+
+## Participation
+
+Initial participation is voluntary and unpaid. Future funded opportunities may be considered as resources become available.
+
+## How to Participate
+
+1. Read `README.md`.
+2. Review `CONTRIBUTING.md`.
+3. Read `CODE_OF_CONDUCT.md`.
+4. Review `RECRUITMENT_STRATEGY.md`.
+5. Contact the recruitment team using the official application channel.
+
+Applications: [INSERT RECRUITMENT EMAIL]
+
+We welcome people from every country and professional background.
+
+**Help build Project Unchained from the beginning.**
