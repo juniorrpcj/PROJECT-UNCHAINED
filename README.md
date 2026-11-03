@@ -1,144 +1,68 @@
-PROJECT UNCHAINED
-Digital Freedom · Anti-Censorship · Network Security · Circumvention
-Detection
-An independent research initiative exploring internet censorship,
-network restrictions, digital freedom, and the security mechanisms
-used to detect and manage circumvention.
+## Core Technical Expertise & Research Specializations
 
-Mission
-Project Unchained aims to improve understanding of how internet access
-restrictions work, how circumvention attempts can be identified, and how
-digital systems can be made more transparent, resilient, and respectful
-of users' rights.
+Project Unchained focuses on the research, analysis, detection, and understanding of technologies and techniques related to internet censorship, digital restrictions, circumvention, and network security.
 
-The project focuses on responsible security research, measurement, and
-defensive detection. It does not encourage unauthorized access, abuse of
-systems, or evasion of lawful security controls.
-Research Areas
-- Internet censorship and network restrictions --- study of
-  blocking, filtering, throttling, and access-control mechanisms.
-- Geo-restriction mechanisms --- analysis of IP geolocation,
-  regional access policies, and their limitations.
-- Circumvention technologies --- research into VPNs, proxies, Tor,
-  tunnels, and censorship-resistance approaches.
-- Detection and evasion analysis --- study of signals used to
-  identify anonymization or circumvention, including false positives
-  and privacy implications.
-- Location integrity --- research into GPS and location-spoofing
-  risks, and methods for validating location claims.
-- Network measurement --- DNS, routing, HTTP/S, traffic metadata,
-  and Deep Packet Inspection (DPI), where lawful and appropriate.
-- Defensive detection engineering --- development and evaluation
-  of monitoring, risk-scoring, and alerting methods.
-Project Goals
-1. Document censorship and network access-control techniques.
-2. Evaluate the reliability and limitations of circumvention-detection
-   signals.
-3. Build proof-of-concept tools for authorized testing and defensive
-   monitoring.
-4. Reduce false positives affecting legitimate privacy tools and
-   ordinary network users.
-5. Publish reproducible research, technical findings, and responsible
-   recommendations.
-Principles
-- Legality and authorization: Test only systems and networks you
-  own or have explicit permission to assess.
-- Privacy by design: Collect the minimum data necessary, protect
-  it, and define retention limits.
-- Transparency: Document methods, assumptions, limitations, and
-  uncertainty.
-- Human review: Avoid treating a single indicator---such as VPN
-  use or an IP/GPS mismatch---as proof of wrongdoing.
-- Responsible disclosure: Report vulnerabilities privately to
-  affected parties before public disclosure when appropriate.
-- Open collaboration: Welcome constructive contributions from
-  researchers, engineers, and digital-rights advocates.
-Planned Work
-The initial work may include:
-- A research catalogue of censorship and filtering methods.
-- A test framework using controlled, authorized network environments.
-- A detection prototype that correlates multiple signals and explains
-  its decisions.
-- Evaluation datasets that avoid unnecessary personal or sensitive
-  information.
-- Documentation on accuracy, limitations, and privacy impacts.
-Specific milestones and deliverables will be added as the project
-develops.
-Who We Are Looking For
-We welcome collaboration from people with experience in:
-- Cybersecurity research and detection engineering
-- Network security and TCP/IP
-- VPN, proxy, Tor, and tunneling technologies
-- IP geolocation and network measurement
-- DNS, HTTP/S, routing, and traffic analysis
-- Python and security-tool development
-- Digital rights, internet governance, and privacy engineering
-Please include a brief description of your relevant experience, public
-work or portfolio, and the areas where you would like to contribute.
-How to Contribute
-1. Read this README and the repository's contribution guidelines, if
-   available.
-2. Open an issue to propose a research topic or discuss a project
-   improvement.
-3. For code contributions, describe the intended use, test environment,
-   and security considerations.
-4. Do not submit personal data, credentials, private network captures,
-   or information obtained without authorization.
-All contributions are subject to review.
-Security
-Do not use the issue tracker to publish exploitable vulnerabilities,
-credentials, personal information, or sensitive network details.
+### 1. Circumvention & Geo-Restriction Research
+- Geo-restriction bypass techniques
+- Geographic access-control mechanisms
+- VPN and proxy circumvention
+- Tor and anonymization technologies
+- Network tunneling and traffic routing
+- Internet censorship circumvention
 
-For sensitive security reports, please use the private reporting method
-listed in the repository's Security tab, if configured.
-Disclaimer
-Project Unchained is an independent research initiative. The information
-and tools in this repository are provided for lawful research,
-education, and authorized defensive security work. Users are responsible
-for complying with applicable laws, regulations, and third-party terms.
-The project does not guarantee that any detection method is accurate or
-suitable for making automated access decisions.
-License
-No license has been selected yet. Until a license is added to this
-repository, all rights are reserved by the copyright holder. Do not
-assume that the code or documentation may be reused, modified, or
-redistributed.
+### 2. Detection & Anti-Evasion Engineering
+- Circumvention detection
+- Detection-evasion analysis
+- Security control evasion analysis
+- VPN and proxy detection
+- Anonymized traffic identification
+- Anti-fraud and suspicious activity detection
+- Detection reliability and false-positive analysis
 
-When the project owner has confirmed the applicable ownership and
-licensing details, add the chosen license file and update this section.
-Project: Project Unchained
-Focus: Digital freedom, anti-censorship research, network security,
-and circumvention detection
-# We Are Recruiting: Founding Contributors
+### 3. Location Integrity & Geolocation Security
+- IP geolocation analysis
+- GPS and location spoofing detection
+- Geolocation fraud research
+- Location consistency verification
+- Geographic anomaly detection
+- Location-based access-control security
 
-Project Unchained is seeking five founding contributors to help establish an international open-source initiative.
+### 4. Network Security & Traffic Analysis
+- Network filtering circumvention research
+- Firewall and filtering mechanisms
+- Deep Packet Inspection (DPI)
+- TCP/IP and network protocol analysis
+- DNS security and manipulation detection
+- Encrypted traffic analysis
+- Network traffic fingerprinting
 
-## Open Positions
+### 5. Threat Intelligence & Security Research
+- Cyber threat intelligence
+- Network threat analysis
+- Censorship infrastructure research
+- Security vulnerability assessment
+- Threat monitoring and detection engineering
+- Digital rights and internet freedom research
 
-- Software Engineer
-- Cybersecurity Specialist
-- Digital Rights Researcher
-- Journalist / Independent Researcher
-- Community & Communications Manager
+## Specialist Profiles We Are Seeking
 
-## Our Mission
+We welcome applications from professionals and independent researchers with experience in:
 
-To advance digital freedom through open-source technology, independent research, privacy, transparency, and international cooperation.
+| Specialist Position | Primary Focus |
+|---|---|
+| Cybersecurity Researcher | Security research and circumvention analysis |
+| Detection Engineer | Detection systems and anti-evasion mechanisms |
+| Network Security Specialist | Network protocols, filtering and traffic analysis |
+| Anti-Evasion Specialist | Detection-evasion techniques and defensive analysis |
+| VPN Detection Specialist | VPN, proxy and Tor identification |
+| Geolocation Security Researcher | Location integrity and geolocation fraud |
+| Traffic Analysis Specialist | Network traffic analysis and DPI |
+| Threat Intelligence Researcher | Threat intelligence and censorship infrastructure |
 
-## Participation
+## Our Research Objective
 
-Initial participation is voluntary and unpaid. Future funded opportunities may be considered as resources become available.
+Our objective is to develop a deeper technical understanding of how internet restrictions, censorship mechanisms, geographical access controls, and security systems operate.
 
-## How to Participate
+We aim to identify weaknesses, evaluate detection capabilities, investigate circumvention techniques, and develop responsible research tools that contribute to digital freedom, network transparency, and stronger security.
 
-1. Read `README.md`.
-2. Review `CONTRIBUTING.md`.
-3. Read `CODE_OF_CONDUCT.md`.
-4. Review `RECRUITMENT_STRATEGY.md`.
-5. Contact the recruitment team using the official application channel.
-
-Applications: [INSERT RECRUITMENT EMAIL]
-
-We welcome people from every country and professional background.
-
-**Help build Project Unchained from the beginning.**
+**Project Unchained — Digital Freedom Through Research, Transparency and Security.**
